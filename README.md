@@ -2,8 +2,17 @@
 Realistic Southeastern Flight Operations Data
 
 
+<p align="center">
+<img src="media/routes.png" alt="drawing" width="400"/>
+</p>
+<p align="center">
+Figure 1: Flight paths assembled in this repository along with their respective flight times.
+</p>
 
-## Licensing and Citation
+
+
+
+## Licensing
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
@@ -15,11 +24,27 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
-Cite as: ...
+## Citation
 
+#### IEEE
+ARTS-Lab, Realistic Southeastern Flight Operations Data, GitHub. [Online]. Available: https://github.com/ARTS-Laboratory/Realistic-Southeastern-Flight-Operations-Data. Accessed: month, day, year.
 
+#### Bibtex
 
+@Misc{ARTSLabRealisticSoutheasternFlight,    
+  author = {ARTS-Lab},  
+  howpublished = {GitHub},  
+  title  = {Realistic Southeastern Flight Operations Data},  
+  groups = {ARTS-Lab},    
+  url    = {https://github.com/ARTS-Laboratory/Realistic-Southeastern-Flight-Operations-Data},   
+}
 
+<p align="center">
+<img src="media/QR-code.png" alt="drawing" width="200"/>
+</p>
+<p align="center">
+QR code for repo.
+</p>
 
 
 
