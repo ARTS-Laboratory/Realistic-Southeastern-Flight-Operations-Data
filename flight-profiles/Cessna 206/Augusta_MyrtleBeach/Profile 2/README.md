@@ -10,6 +10,7 @@ Flight distance: 159.77 nautical miles
 
 Taxi Distance: 2 nautical miles
 
-![image](https://github.com/user-attachments/assets/c7141491-8f04-4fc1-a71f-5eb64d819f2e)
+![image](https://github.com/user-attachments/assets/7c542fc2-bd9b-42f0-8e99-c0e870974bc2)
 
-![image](https://github.com/user-attachments/assets/f3e0e2ad-340c-414e-acf6-14488dba4a1c)
+![image](https://github.com/user-attachments/assets/e4282ba9-d272-40a9-9137-c5b894893719)
+
