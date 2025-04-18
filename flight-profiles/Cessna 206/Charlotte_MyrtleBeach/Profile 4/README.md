@@ -8,6 +8,8 @@ Speed: 146.01 knots;
 
 Flight distance: 136.02 nautical miles
 
+![image](https://github.com/user-attachments/assets/bbac4531-d09e-4cb4-9bc9-0f9d619020fc)
+
 ![image](https://github.com/user-attachments/assets/9962e11e-0a84-49bd-908b-44295b05b776)
 
 ![image](https://github.com/user-attachments/assets/02c6d866-6015-4d29-86c2-946dc0554f03)
