@@ -7,6 +7,7 @@ Depart:10:26, Arrive: 11:16
 Speed: 128.69 knots; 
 
 Flight distance: 81.49 nautical miles; 
+![image](https://github.com/user-attachments/assets/1346467e-43ff-4b96-9569-395d6647746a)
 
 ![image](https://github.com/user-attachments/assets/f8e358d2-b9f5-4b66-b679-da9a11a3f3e6)
 
